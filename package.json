@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-zenii",
+  "name": "jamstack-st",
   "private": true,
-  "description": "A One-page Gatsby starter built with Tailwindcss and  Postcss",
+  "description": "Jamstack site migrated from WordPress. Built using gatsby-starter-zenii, a One-page Gatsby starter built with Tailwindcss and  Postcss",
   "version": "1.0.0",
   "license": "0BSD",
   "scripts": {
@@ -52,9 +52,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thebakerdev/gatsby-starter-zenii"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/DoctorDerek/jamstack-st"
   }
 }
